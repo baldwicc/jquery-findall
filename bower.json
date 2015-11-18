@@ -1,11 +1,11 @@
 {
   "name": "jquery-findall",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "dependencies": {
     "jquery": "*"
   },
   "devDependencies": {
-    "qunit": "~1.12.0",
+    "qunit": "*",
     "jquery": "*"
   },
   "homepage": "https://github.com/baldwicc/jquery-findall",
