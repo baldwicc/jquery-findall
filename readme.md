@@ -1,4 +1,4 @@
-# jquery-findall
+# jquery-findall [![Build Status](https://travis-ci.org/baldwicc/jquery-findall.svg?branch=master)](https://travis-ci.org/baldwicc/jquery-findall)
 
 > like $.find, but $.findAll
 
