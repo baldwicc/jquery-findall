@@ -1,5 +1,6 @@
-/* global define:false */
-
+/*! jquery-findall - v0.1.1 - 2015-11-18
+* https://github.com/baldwicc/jquery-findall#readme
+* Copyright (c) 2015 ; Licensed MIT */
 /*
  *
  * Copyright (c) 2015 baldwicc

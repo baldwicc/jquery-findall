@@ -1,6 +1,6 @@
 {
   "name": "jquery-findall",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "jquery-findall",
   "keywords": [
     "jquery-plugin"
@@ -31,9 +31,10 @@
     "url": "https://github.com/baldwicc/jquery-findall/issues"
   },
   "homepage": "https://github.com/baldwicc/jquery-findall#readme",
-  "main": "src/jquery-findall.js",
+  "main": "dist/jquery-findall.min.js",
   "directories": {
     "test": "test"
   },
   "dependencies": {}
 }
+

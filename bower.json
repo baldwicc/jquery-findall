@@ -1,6 +1,6 @@
 {
   "name": "jquery-findall",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "dependencies": {
     "jquery": "*"
   },
@@ -13,7 +13,7 @@
     "Christopher Baldwin <c1.baldwin@qut.edu.au>"
   ],
   "description": "like $.find, but $.findAll",
-  "main": "src/jquery-findall.js",
+  "main": "dist/jquery-findall.min.js",
   "moduleType": [
     "amd"
   ],
@@ -32,3 +32,4 @@
     "tests"
   ]
 }
+
