@@ -1,10 +1,34 @@
 {
   "name": "jquery-findall",
   "version": "0.1.0",
-  "dependencies": {},
+  "dependencies": {
+    "jquery": "*"
+  },
   "devDependencies": {
     "qunit": "~1.12.0",
     "jquery": "*"
-  }
+  },
+  "homepage": "https://github.com/baldwicc/jquery-findall",
+  "authors": [
+    "Christopher Baldwin <c1.baldwin@qut.edu.au>"
+  ],
+  "description": "like $.find, but $.findAll",
+  "main": "src/jquery-findall.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "jquery-plugin",
+    "find",
+    "findall",
+    "find-all"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
-
