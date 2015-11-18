@@ -15,5 +15,7 @@
   $.fn.findAll = function(selector) {
     return $(this).find(selector).addBack(selector);
   };
+
+  return $;
 }));
 
